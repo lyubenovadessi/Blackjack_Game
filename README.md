@@ -15,7 +15,7 @@ Play against the computer, draw cards strategically, and try to hit 21 without g
 3. Ensure both files are in the same directory:
   main.py (this game)
   blackjack_logo.py (contains ASCII logo)
-4.Run the program:
+4. Run the program:
   python main.py
 
 # 💡 Concepts Practiced
